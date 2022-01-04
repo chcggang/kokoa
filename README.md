@@ -1,3 +1,5 @@
 # kokoa clone 2022
 
-nomadcode is very good
+HTML and CSS are so much fun!
+
+what's new?
